@@ -22,8 +22,8 @@
 ### 📫 Connect With Me:
 - 🌐 **GitHub:** [DevQasem](https://github.com/DevQasem)
 - 🎓 **University:** SEU (Saudi Electronic University)
-- 💬 **Discord:** [Your Discord Username]
-- ✉️ **Email:** [Your Email Address]
+- 💬 **Discord:** [ro_t]
+- ✉️ **Email:** [qasem.dev7@gmail.com]
 
 ---
 
