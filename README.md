@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @DevQasem
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning IT
-- 📫 How to reach me SOON
+### Hi there, I'm Qasem! 👋  
+🚀 **SEU IT Student | Developer | Cybersecurity Enthusiast**  
+💻 Passionate about **game modding, scripting, and server management**  
 
-<!---
-DevQasem/DevQasem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ Tech Stack & Skills:
+- **Languages:** GSC, Python, C++, JavaScript
+- **Game Modding:** BO2 Zombies (Plutonium, T6-GSC-Utils)
+- **Cybersecurity:** Ethical Hacking, Penetration Testing, Reverse Engineering
+- **Server Management:** Linux (Debian), Networking, Security
+
+---
+
+### 🔥 Current Projects:
+- 🎮 **Custom BO2 Zombies Server** – Custom perks, scripting, and permission system
+- 🛡️ **Cybersecurity Tools** – Experimenting with security automation
+- 🖥️ **Server Management** – Optimizing game server performance and security
+
+---
+
+### 📫 Connect With Me:
+- 🌐 **GitHub:** [DevQasem](https://github.com/DevQasem)
+- 🎓 **University:** SEU (Saudi Electronic University)
+- 💬 **Discord:** [Your Discord Username]
+- ✉️ **Email:** [Your Email Address]
+
+---
+
+### ⚡ Fun Fact:
+💡 I love breaking and fixing things – especially when it involves gaming and cybersecurity! 😆
