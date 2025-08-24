@@ -26,6 +26,3 @@
 - ✉️ **Email:** [qasem.dev7@gmail.com]
 
 ---
-
-### ⚡ Fun Fact:
-💡 I love breaking and fixing things – especially when it involves gaming and cybersecurity! 😆
