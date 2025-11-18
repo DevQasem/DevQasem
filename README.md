@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Tech Stack & Skills:
-- **Languages:** GSC, Python, C++, JavaScript
+- **Languages:** GSC,Java
 - **Game Modding:** BO2 Zombies (Plutonium, T6-GSC-Utils)
 - **Cybersecurity:** Ethical Hacking, Penetration Testing, Reverse Engineering
 - **Server Management:** Linux (Debian), Networking, Security
@@ -14,8 +14,6 @@
 
 ### 🔥 Current Projects:
 - 🎮 **Custom BO2 Zombies Server** – Custom perks, scripting, and permission system
-- 🛡️ **Cybersecurity Tools** – Experimenting with security automation
-- 🖥️ **Server Management** – Optimizing game server performance and security
 
 ---
 
